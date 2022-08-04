@@ -1,0 +1,13 @@
+using the bot: 
+
+- Go to the Command Prompt and type "pip install --upgrade pip"
+- Once completed, type "pip install selenium" 
+
+- Find your version of Google Chrome using "chrome://settings/help" 
+- Go to  "https://chromedriver.chromium.org/downloads", find the appropriate ChromeDriver for your Google Chrome's version
+- Find the appropriate version for your OS and download the ZIP file
+- Extract the zip file and download the app inside it 
+- Dowload Chrome Canary from "https://www.google.com/chrome/canary/thank-you.html?statcb=1&installdataindex=empty&defaultbrowser=0" 
+
+- Use "https://duo.com/decipher/driving-headless-chrome-with-python" for additional reference 
+
